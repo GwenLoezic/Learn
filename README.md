@@ -11,4 +11,6 @@ REACT
 REACT NATIVE
 Enjoy !
 
+UPDATE LOADING !
+
 Loezic Gwenael# Fundamentals-Basics
